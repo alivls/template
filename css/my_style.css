@@ -1,0 +1,51 @@
+body {
+  height: 2000px;
+  background: black;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+}
+
+.navbar {
+  background: black !important;
+}
+
+.my_naw2 {
+  background-color: rgba(0, 0, 0, 0) !important;
+  color: rgb(252, 252, 252) !important;
+}
+
+.my_naw3 {
+  font-size: 2em;
+  margin-top: 5px;
+}
+
+.my_naw4 {
+  color: white !important;
+  margin: 15px 20px 0 0;
+  display: inline-block !important;
+  text-decoration: none !important;
+  position: relative;
+  border: 3px solid transparent;
+}
+
+.my_naw4:hover {
+  display: inline-block;
+  border-bottom: 3px solid #FF4081;
+  border-radius: 4px;
+}
+
+.my_naw5 {
+  color: white !important;
+  padding: 15px 10px 0px 10px !important;
+  text-decoration-line: none !important;
+}
+
+.my_naw6:hover {
+  display: inline-block;
+}
